@@ -1,0 +1,9 @@
+Alert ('¡Bienvenida y bienvenido a nuestro sitio web!') ;
+let Nombre = Lua ;
+let Edad = 25 ;
+let NumeroDeVentas = 50 ;
+let SaldoDisponible = 50 ;
+let SaldoDisponible = 1000 ;
+Alert ('¡ERROR!COMPLETA TODOS LOS CAMPOS') ;
+if(MensajeDeError == ¡ERROR! 
+
